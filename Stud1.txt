@@ -1,0 +1,8 @@
+Enroll-NO Name  Marks
+1 Ayush 50
+2 Aman 80
+3 Rohit 60
+4 Moni 65
+5 Ami 36
+6 Ajay 67
+7 Tanvi 45
